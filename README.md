@@ -1,8 +1,7 @@
 # Identification of Distinct Topological Structures from High-Dimensional Data
 
-Code base for ID
+Code base for ID, which identifies gene sets that make up different structures.
 
-```markdown
 ![Alt text](imgs/ID_fig.png)
-```
+
 
